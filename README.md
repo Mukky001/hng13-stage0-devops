@@ -4,6 +4,6 @@
 
 **Project:** Simple NGINX site for HNG  DevOps track Stage 0
 
-**Server:** http://<your-server-ip-or-domain>   <!-- add this AFTER you deploy -->
+**Server:** http://18.175.224.54
 
 
