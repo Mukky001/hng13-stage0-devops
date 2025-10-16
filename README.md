@@ -1,6 +1,6 @@
-# DevOps Stage 0 - <Muktar Akinola>
+# DevOps Stage 0 - Muktar Akinola
 
-**Slack Username:** @<MK>
+**Slack Username:** @MK
 
 **Project:** Simple NGINX site for HNG  DevOps track Stage 0
 
