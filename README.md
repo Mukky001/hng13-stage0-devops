@@ -4,6 +4,6 @@
 
 **Project:** Simple NGINX site for HNG  DevOps track Stage 0
 
-**Server:** http://18.175.224.54
+**Server:** http://13.62.103.207
 
 
